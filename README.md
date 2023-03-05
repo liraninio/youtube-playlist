@@ -1,11 +1,11 @@
 
 # server
-
-	First build server  - npm run build.
+	npm install
+	build server  - npm run build.
 	After build you can run server - npm run start.
 
 # client
-
+	npm install
 	build client  - npm run build.
 	run server - npm run start.
 	test - npm test.
